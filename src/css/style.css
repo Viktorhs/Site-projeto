@@ -269,4 +269,23 @@ main{
         width: auto;
     }
 
+    .contato{
+        width: 80vw;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .contato h3{
+        line-height: 40px;
+
+    
+    }
+    
+    
+    .btn{
+        width: 80%;
+    }
+
 }
